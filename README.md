@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0f172a,1e3a8a&text=Xumoyun Foziljonov&fontColor=ffffff&desc=&descSize=18&textBg=false&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0f172a,1e3a8a&text=Xumoyun&fontColor=ffffff&desc=&descSize=18&textBg=false&animation=fadeIn" />
 
 
 
